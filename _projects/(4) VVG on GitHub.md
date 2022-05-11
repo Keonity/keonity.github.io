@@ -1,7 +1,7 @@
 ---
-name: Coding Like Vincent Van Gogh
-tools: [Support, Author, VVG]
+name: Shadowscope
+tools: [C#, Unity, Photon, GitHub]
 image:
-description: Show some support by following me!
-external_url: https://github.com/YoussefRaafatNasry
+description: A top-down local multiplayer shootout game. 
+external_url: https://github.com/eannoni/ShadowScopeGame
 ---

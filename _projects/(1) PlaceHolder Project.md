@@ -1,7 +1,7 @@
 ---
 name: Kittens With Cannons
 tools: [Unity, C#, GitHub, Trello]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+image: https://img.itch.zone/aW1nLzUzODU5NTUucG5n/315x250%23c/8iTFQX.png
+description: A story-driven RPG about cats fighting a war against an army of evil robots.
+external_url: https://tomtorrey.itch.io/kwic
 ---
