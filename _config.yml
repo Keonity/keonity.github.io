@@ -108,4 +108,4 @@ exclude:
   - CONTRIBUTING.md
   - LICENSE
   - "*.log"
-  - resume.pdf
+  - /assets/resume.pdf
