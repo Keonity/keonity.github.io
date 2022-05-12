@@ -1,9 +1,14 @@
 - title: Student, Chapman University
   from: 2019
   to: present
-  description: Studied game development and design, working on projects like Kittens With Cannons and Shadowscope
+  description: Studied game development and design, working on projects like Kittens With Cannons and Shadowscope.
 
 - title: Resident Advisor, Chapman University
   from: 2020
   to: present
-  description: Created and maintained a warm community of ~40 residents each year, supporting their growth and ensuring they were getting the support they needed.
+  description: Created and maintained a warm community of ~40 residents each year, supporting their growth and ensuring they were getting the support they needed. I served at Chapman Grand as a first-year RA and as a continuing RA, at Henley Hall.
+
+- title: Game Designer/Programmer, Team Kittens
+  from: 2022
+  to: present
+  description: Worked in a highly collaborative environment with 3 others to develop Kittens With Cannons. I specifically was responsible for the quest system and object breaking system. I am currently working on game design for te project. Also, this project won 1st place in IEEE GameSig 2022!
