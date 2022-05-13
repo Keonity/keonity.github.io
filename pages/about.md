@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:,<br>
-I am an aspiring game developer who's passionate about games and art! I am currently studying software engineering with a minor in game development programming at Chapman University. I will graduate in spring of 2023 ready to enter the game development industry.
+Hi I'm **{{ site.author.name }}** :wave:,<br>
+I am an aspiring game developer who's passionate about games, design, and art! I am currently studying software engineering with a minor in game development programming at Chapman University. I will graduate in spring of 2023 ready to enter the game development industry. I hope to create beautiful, interactive worlds through video game development and design.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

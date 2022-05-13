@@ -1,7 +1,11 @@
 - name: Teambuilding
-  percentage: 85
+  percentage: 90
   color: success
 
+- name: Mentoring
+  percentage: 80
+  color: info
+
 - name: Marketing
-  percentage: 70
+  percentage: 80
   color: info
