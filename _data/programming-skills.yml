@@ -9,3 +9,11 @@
 - name: Java
   percentage: 65
   color: secondary
+
+- name: Javascript
+  percentage: 50
+  color: secondary
+
+- name: C++
+  percentage: 50
+  color: secondary
