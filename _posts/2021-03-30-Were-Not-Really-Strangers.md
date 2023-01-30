@@ -3,7 +3,7 @@ title: We're Not Really Strangers (Diversity Edition)
 tags: [Mental Health, Diversity, Equity, Inclusion]
 style: fill
 color: primary
-description: Host and participate in a modified version of the card game "we're not really strangers" that focuses on questions relating to diversity, equity, and inclusion that gradually increase in intensity and difficulty.
+description: Play a modified version of the card game "we're not really strangers" that focuses on questions relating to diversity, equity, and inclusion that gradually increase in intensity and difficulty.
 ---
 
 Source: [We're Not Really Strangers](https://www.werenotreallystrangers.com/pages/were-not-really-strangers-race-and-privilege-expansion-pack)
