@@ -11,7 +11,7 @@
   color: secondary
 
 - name: Javascript
-  percentage: 50
+  percentage: 75
   color: secondary
 
 - name: C++
